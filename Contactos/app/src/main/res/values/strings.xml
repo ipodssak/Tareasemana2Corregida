@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contactos</string>
+
+
+    <string name="pFecha_nacimientoYear">fechaNacimientoAño</string>
+    <string name="pFecha_nacimientoDay">fechaNacimientoDia</string>
+    <string name="pFecha_nacimientoMonth">fechaNacimientoMes</string>
+</resources>
